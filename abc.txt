@@ -1,1 +1,3 @@
-hi Git
+hi git
+i am doing with
+merge conflict
