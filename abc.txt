@@ -1,2 +1,3 @@
-hi Git
-hi pavan
+ls 
+pwd
+
